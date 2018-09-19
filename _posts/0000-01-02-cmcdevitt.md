@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+>Lilys in the fields
 Use the left arrow to go back!
